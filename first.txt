@@ -1,8 +1,1 @@
 Mitul Gohel first git demo file.
-changes made by other.
-other changes on masater.
-new changes.
-
-new changes for git diff check.
-
-another changes for git.
